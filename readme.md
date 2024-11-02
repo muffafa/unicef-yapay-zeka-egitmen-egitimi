@@ -6,7 +6,7 @@ Tarih 31.10.2024 - 01.11.2024
 
 ## Gün 1
 
-### Ders 1
+### Ders 1 (Açılış & Yapay Zeka nedir? &  Dönüm Noktalan)
 
 - Yapay Zeka Nedir? (Menti)
 - Yapay Zeka Tarihi
@@ -20,7 +20,7 @@ Tarih 31.10.2024 - 01.11.2024
   - AlphaGo vs Lee Sedol (Deep Mind- Mustafa Suleyman)
   - AlphaFold
 
-### Ders 2
+### Ders 2 (Yapay Zeka Nasıl Çalışır?)
 
 - Yapay Zeka Nasıl Çalışır?
   - Yapay Sinir Ağı
@@ -42,7 +42,7 @@ Tarih 31.10.2024 - 01.11.2024
       - Denetimsiz (Unsupervised)
       - Pekiştirmeli (Rainforcement)
 
-### Ders 3
+### Ders 3 (Yapay Zekanın Toplum Üzerindeki Dönüştürücü Etkisi)
 
 - Yapay Zekanın Toplum Üzerindeki Dönüştürücü etkisi
   - <https://www.mindmeister.com/>
@@ -52,11 +52,11 @@ Tarih 31.10.2024 - 01.11.2024
     - Apple Card Cinsiyet Ayrımclığı İddiası
   - Gençler Üzerinde Yapay Zekanın Etkisi
 
-### Ders 4
+### Ders 4 (Yapay Zeka Etkileri Uygulama Seansı)
 
 - Google Slide Atölyesi (Eğtim ve Sağlık Sektörlerinde Yapay Zekanın Pozitif ve Negatif Etkileri)
 
-### Ders 5
+### Ders 5 (Bilgisayarların Dünyayı Algılaması)
 
 - Bilgisayarların dünyayı algılaması
   
@@ -66,3 +66,19 @@ Tarih 31.10.2024 - 01.11.2024
   - <https://teachablemachine.withgoogle.com/>
   - <https://ide.mblock.cc/>
   - AlphaProof ve AlphaGeometry
+
+## Gün 2
+
+### Ders 7 (Üretken Yapay Zeka)
+
+- Temel Yapay Zeka Kavramları
+  - Dünkü dersin grafiği <Resim buraya gelecek>
+  - Makine Öğrenmesi
+  - Derin Öğrenme
+  - Büyük Dil Modelleri
+  - Prompt
+  - Doğal Dil İşleme
+  - Veri Seti
+  - Sürümleme ve Eğitim (Fine-Tuning)
+- <https://evrimagaci.org/insan-gozu-kac-megapikseldir-1373>
+- Pass the Ball Videosu
