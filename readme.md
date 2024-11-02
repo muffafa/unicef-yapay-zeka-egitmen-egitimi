@@ -46,4 +46,23 @@ Tarih 31.10.2024 - 01.11.2024
 
 - Yapay Zekanın Toplum Üzerindeki Dönüştürücü etkisi
   - <https://www.mindmeister.com/>
-  - 
+  - Veri Gizliliği ve Etik Sorunlar
+    - Cambridge Analytica
+    - Amazon'un İşe Alım Algoritması
+    - Apple Card Cinsiyet Ayrımclığı İddiası
+  - Gençler Üzerinde Yapay Zekanın Etkisi
+
+### Ders 4
+
+- Google Slide Atölyesi (Eğtim ve Sağlık Sektörlerinde Yapay Zekanın Pozitif ve Negatif Etkileri)
+
+### Ders 5
+
+- Bilgisayarların dünyayı algılaması
+  
+### Ders 6
+
+- Teachable machine
+  - <https://teachablemachine.withgoogle.com/>
+  - <https://ide.mblock.cc/>
+  - AlphaProof ve AlphaGeometry
