@@ -167,8 +167,6 @@ Eğitim tarihleri 31.10.2024 - 01.11.2024
 
 ## Gün 3
 
----
-
 ### Ders 11 (IoT Cihazlar ve Veri Toplama)
 
 ### Ders 12 (Veri Analizi)
