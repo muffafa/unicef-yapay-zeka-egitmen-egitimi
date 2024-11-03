@@ -169,14 +169,44 @@ Eğitim tarihleri 31.10.2024 - 01.11.2024
 
 ### Ders 11 (IoT Cihazlar ve Veri Toplama)
 
+- Sensörler
+- Veri Toplama
+- Veri İşleme
+- Veri Bİlimi
+  - CRISP-DM (Cross Industry Standard Process for Data Mining)
+    - ![data-science](images/crisp-dm.png)
+  - Problemi Tanımlama
+  - Veri Toplama
+  - Veri Temizliği
+  - Veri Hazırlığı
+  - Veri Analizi
+  - Veri Modellemsi
+  - Sonuçları Yorumlama
+
 ### Ders 12 (Veri Analizi)
+
+- Kaggle
+  - GPT ile veri analizi
 
 ### Ders 13 (Üretken Medya Araçları)
 
+- Google Forms
+- Canvaya giriş
+- <https://www.napkin.ai/>
+
 ### Ders 14 (Canva'nın AI ile Güçlendirilmiş Uygulamarı)
 
+- Canva ve AI araçları
+- Sunum
+  - Hazırlama
+  - Sunma
+
 ### Ders 15 (Yapay Zeka'nın Geleceğe Etkisi Uygulama Seansı)
+
+- invideo AI
+- deneyimsel eğitim merkezi (hızlandırıcı)
 
 ## Ekstra Notlar
 
 - <https://monica.im/>
+- Ideogram
